@@ -1,0 +1,34 @@
+.landing-page {
+  text-align: center;
+  margin-top: 50px;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.landing-header h1 {
+  font-size: 2.5rem;
+  color: #333;
+}
+
+.landing-header p {
+  font-size: 1.2rem;
+  color: #555;
+}
+
+.landing-content {
+  margin-top: 20px;
+}
+
+.logout-button {
+  background-color: #ff5722;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+.logout-button:hover {
+  background-color: #e64a19;
+}
